@@ -244,7 +244,7 @@ int main ()
 			printf(" b) Negros.\n\t");
 			printf(" c) Jesuitas.\n\t");
 			printf(" d) Espanhois.\n\t");
-			printf(" e) Portuguesa.\n\n\t");
+			printf(" e) Portugueses.\n\n\t");
 			 
 			printf(" Resposta: ");
 			scanf("%s", &r8);
